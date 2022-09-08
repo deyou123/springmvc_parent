@@ -1,2 +1,3 @@
 rootProject.name = 'springmvc_parent'
+include 'springmvc_001'
 
